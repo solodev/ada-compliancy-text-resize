@@ -48,11 +48,11 @@ The tutorial contains the following basic HTML markup.
 
 ## CSS
 
-All required CSS is contained with mobile-menu.css
+All required CSS is contained with ada-compliancy-text-resize.css
 
 ## JavaScript
 
-All required JS is contained with mobile-menu.js
+All required JS is contained with ada-compliancy-text-resize.js
 
 ## External Resources
 
