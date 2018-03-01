@@ -1,0 +1,1 @@
+# ada-compliancy-text-resize
